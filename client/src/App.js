@@ -11,9 +11,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-        </p>
+          <h2>Fib Calculator</h2>
         <Link to="/">Home</Link>
         <Link to="/otherpage">OtherPage</Link>
         </header>
